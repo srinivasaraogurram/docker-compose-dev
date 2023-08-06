@@ -1,7 +1,8 @@
 
-![[01-Docker Crash Course.png]]![[02-What you will Learn.png]]![[03-1-What and Why of Docker?.png]]
+![[01-Docker Crash Course.png]]
+![[02-What you will Learn.png]]
+![[03-1-What and Why of Docker?.png]]
 ![[04-Course Content.png]]
-
 ![[05-Course List-Run Containers Cmds.png]]
 ![[06-Course List-Create Own Image.png]]
 ![[07-Course List- Learn Docker Commands List.png]]
@@ -23,7 +24,6 @@
 ![[21-Docker using same command for all the services.png]]
 ![[22-Docker Standardizes Process.png]]
 ![[23-Docker running different Redis versions.png]]
-
 Let us See how containers can improve the application deployment process 
 ![[24-Containers Improving App Deployment Process.png]]
 ![[24-Deployment Process Before containers.png]]
