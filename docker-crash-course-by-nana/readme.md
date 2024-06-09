@@ -1,18 +1,24 @@
 # Docker Crash Course
 ![alt text](images/01-DockerCrashCourse.png)
+---
 
 ### 2: who this crash course is for?
 ![alt text](./images/02-What-you-will-Learn.png)
-
+---
 ### 3: course overview
 
-![alt text](./images/03-1-What-and-Why-of-Docker.png)
+![alt text](./images/03-Course-Overview.png)
 
+### 4: course overview with topics
 ![alt text](./images/04-Course-Content.png)
 
-![alt text](./images/05-Course-List-Run-Containers-Cmds.png)
+### 5: course overview with topics 1-5..
 
-![alt text](./images/06-Course-List-Create-Own-Image.png)
+![alt text](./images/05-Course-Overview-SubTopics1-5.png)
+
+### 6: Course Content Topics 1-6 and beyond
+
+![alt text](./images/05-Course-Overview-SubTopics1-6.png)
 
 ![alt text](./images/07-Course-List--Learn-Docker-Commands-List.png)
 
