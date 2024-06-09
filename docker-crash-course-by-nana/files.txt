@@ -1,0 +1,32 @@
+![Alt Name ](images/01-DockerCrashCourse.png)
+images/02-What-you-will-Learn.png
+images/03-Course-Overview.png
+images/05-Course-Overview-SubTopics1-5.png
+images/05-Course-Overview-SubTopics1-6.png
+images/06-Course-Overview-Create-Own-Image.png
+images/07-Course-Overview-Main-Docker-Commands-List.png
+images/08-Course-Overview-Image-Versioning.png
+images/09-Course-Overview-Docker-WorkFlow-Big-Picture.png
+images/10-Course-Overview-Docker-Work-Flow-Big-Picture-Details.png
+images/11-Course-Confidence.png
+images/12-What-is-Docker-Problems-it-Solves.png
+images/13-What-is-Docker-in-Detail.png
+images/14-BeforeDocker.png
+images/15-What-Problems-Docker-Solves.png
+images/16-Development-Process.png
+images/17-Development-Process-Before-Containers.png
+images/18-Development-Process-Before-Containers-Issues-Explained.png
+images/19-18-Development-Process-Before-Containers-Issues-Explained-Installation-Repeation.png
+images/20-Dev-Process-with-Containers-Own-Isolated-Environment.png
+images/21-Dev-Process-with-Containers-Command-Same-For-All-Services.png
+images/22-Dev-Process-with-Containers-StandardizesProcess.png
+images/23-Dev-Process-with-Containers-Different-Versions.png
+images/24-Deployment-Process-Before-containers.png
+images/25-Deployment-Process-Before-containers-Packing-Jar.png
+images/26-Deployment-Process-Before-Containers-Dev-Operations-Server.png
+images/27-Deployment-Process-Before-Containers-Dev-Operations-Server-Directly-on-Server.png
+images/28-Deployment-Process-Before-Containers-Dependency-Version-Conflicts.png
+images/29-28-Deployment-Process-Before-Containers-Dependency-Human-Errrors.png
+images/30-Deployment-Process-With-Containers-No-Configurations-Needed-On-Server.png
+images/31-Deployment-Process-With-Containers-Install-Docker-Runtime-On-Server.png
+images/32-VM VS Docker.png
