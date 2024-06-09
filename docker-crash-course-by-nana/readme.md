@@ -1,5 +1,8 @@
+# Docker Crash Course
 ![alt text](.\images\01-DockerCrashCourse.png)
+### who this crash course is for?
 ![alt text](.\images\02-What-you-will-Learn.png)
+### course overview
 ![alt text](.\images\03-1-What-and-Why-of-Docker.png)
 ![alt text](.\images\04-Course-Content.png)
 ![alt text](.\images\05-Course-List-Run-Containers-Cmds.png)
