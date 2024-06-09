@@ -29,4 +29,4 @@
 ![alt text](images/29-28-Deployment-Process-Before-Containers-Dependency-Human-Errrors.png)
 ![alt text](images/30-Deployment-Process-With-Containers-No-Configurations-Needed-On-Server.png)
 ![alt text](images/31-Deployment-Process-With-Containers-Install-Docker-Runtime-On-Server.png)
-![alt text](images/32-VM VS Docker.png)
+![alt text](images/32-VM-VS-Docker.png)

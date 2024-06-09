@@ -1,77 +1,32 @@
-# Docker Crash Course
 ![alt text](images/01-DockerCrashCourse.png)
----
-
-### 2: who this crash course is for?
-![alt text](./images/02-What-you-will-Learn.png)
----
-### 3: course overview
-
-![alt text](./images/03-Course-Overview.png)
-
-### 4: course overview with topics
-![alt text](./images/04-Course-Content.png)
-
-### 5: course overview with topics 1-5..
-
-![alt text](./images/05-Course-Overview-SubTopics1-5.png)
-
-### 6: Course Content Topics 1-6 and beyond
-
-![alt text](./images/05-Course-Overview-SubTopics1-6.png)
-
-![alt text](./images/07-Course-List--Learn-Docker-Commands-List.png)
-
-![alt text](./images/08-Course-List---Image-Versioning.png)
-
-![alt text](./images/09-Course-List---Docker-WorkFlow-Big-Picture.png)
-
-![alt text](./images/10-Course-List---Docker-Work-Flow-Big-Picture--Details.png)
-
-![alt text](./images/11-Course---Confidence.png)
-
-![alt text](./images/12-What-is-Docker,-Problems-it-Solves.png)
-
-![alt text](./images/13-What-is-Docker-in-Detail.png)
-
-![alt text](./images/14-Before-Docker.png)
-
-![alt text](./images/15-What-Problems-Docker-Solves.png)
-
-![alt text](./images/16-Development-process.png)
-
-![alt text](./images/17-Development-Process-Before-Containers.png)
-
-![alt text](./images/18-Dev-Before-Containers---Complex---Specific-to-OS.png)
-
-![alt text](./images/19-App-uses-10-Services,-each-developer-needs-to-install-10.png)
-
-![alt text](./images/Docker-Crash-Course---Nana/20-Dev-Process-with-Containers.png)
-
-![alt text](./images/20-Dev-Process-with-Containers.png)
-
-![alt text](./images/21-Docker-using-same-command-for-all-the-services.png)
-
-![alt text](./images/22-Docker-Standardizes-Process.png)
-
-![alt text](./images/23-Docker-running-different-Redis-versions.png)
-
-![alt text](./images/24-Containers-Improving-App-Deployment-Process.png)
-
-![alt text](./images/24-Deployment-Process-Before-containers.png)
-
-![alt text](./images/25---Packaging-Jar-file-for-Java-Application.png)
-
-![alt text](./images/26-Packaging-with-DB.png)
-
-![alt text](./images/27.png)
-
-![alt text](./images/28.png)
-
-![alt text](./images/29.png)
-
-![alt text](./images/30.png)
-
-![alt text](./images/31.png)
-
-![alt text](./images/32-VM-VS-Docker.png)
+![alt text](images/02-What-you-will-Learn.png)
+![alt text](images/03-Course-Overview.png)
+![alt text](images/05-Course-Overview-SubTopics1-5.png)
+![alt text](images/05-Course-Overview-SubTopics1-6.png)
+![alt text](images/06-Course-Overview-Create-Own-Image.png)
+![alt text](images/07-Course-Overview-Main-Docker-Commands-List.png)
+![alt text](images/08-Course-Overview-Image-Versioning.png)
+![alt text](images/09-Course-Overview-Docker-WorkFlow-Big-Picture.png)
+![alt text](images/10-Course-Overview-Docker-Work-Flow-Big-Picture-Details.png)
+![alt text](images/11-Course-Confidence.png)
+![alt text](images/12-What-is-Docker-Problems-it-Solves.png)
+![alt text](images/13-What-is-Docker-in-Detail.png)
+![alt text](images/14-BeforeDocker.png)
+![alt text](images/15-What-Problems-Docker-Solves.png)
+![alt text](images/16-Development-Process.png)
+![alt text](images/17-Development-Process-Before-Containers.png)
+![alt text](images/18-Development-Process-Before-Containers-Issues-Explained.png)
+![alt text](images/19-18-Development-Process-Before-Containers-Issues-Explained-Installation-Repeation.png)
+![alt text](images/20-Dev-Process-with-Containers-Own-Isolated-Environment.png)
+![alt text](images/21-Dev-Process-with-Containers-Command-Same-For-All-Services.png)
+![alt text](images/22-Dev-Process-with-Containers-StandardizesProcess.png)
+![alt text](images/23-Dev-Process-with-Containers-Different-Versions.png)
+![alt text](images/24-Deployment-Process-Before-containers.png)
+![alt text](images/25-Deployment-Process-Before-containers-Packing-Jar.png)
+![alt text](images/26-Deployment-Process-Before-Containers-Dev-Operations-Server.png)
+![alt text](images/27-Deployment-Process-Before-Containers-Dev-Operations-Server-Directly-on-Server.png)
+![alt text](images/28-Deployment-Process-Before-Containers-Dependency-Version-Conflicts.png)
+![alt text](images/29-28-Deployment-Process-Before-Containers-Dependency-Human-Errrors.png)
+![alt text](images/30-Deployment-Process-With-Containers-No-Configurations-Needed-On-Server.png)
+![alt text](images/31-Deployment-Process-With-Containers-Install-Docker-Runtime-On-Server.png)
+![alt text](images/32-VM-VS-Docker.png)
